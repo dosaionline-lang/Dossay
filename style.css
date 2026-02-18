@@ -7,13 +7,7 @@ justify-content: center;
 align-items: center;
 display: flex;
 font-family: sans-serif;
-height: 100vh;
+height: 100dvh;
 max-width: 100%
 }
-.card {
- padding: 200px;
- border-radius: 0px;
- height: 10vh;
- max-width: 100%;
-  }
- 
+
